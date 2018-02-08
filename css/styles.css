@@ -750,7 +750,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 @media only screen and (max-width: 540px) {
 	.site_nav {
-		height: 203px;
+		height: 240px;
 		padding-top: 10px;
 	}
 	.site_nav ul {
