@@ -606,7 +606,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 		display: block;
 	}
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 867px) {
 	#contact {
 		padding-top: 20px;
 	}
